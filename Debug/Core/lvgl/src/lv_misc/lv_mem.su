@@ -1,0 +1,10 @@
+../Core/lvgl/src/lv_misc/lv_mem.c:85:6:lv_mem_init	16	static
+../Core/lvgl/src/lv_misc/lv_mem.c:109:8:lv_mem_alloc	24	static
+../Core/lvgl/src/lv_misc/lv_mem.c:175:6:lv_mem_free	24	static
+../Core/lvgl/src/lv_misc/lv_mem.c:224:8:lv_mem_realloc	32	static
+../Core/lvgl/src/lv_misc/lv_mem.c:276:6:lv_mem_defrag	16	static
+../Core/lvgl/src/lv_misc/lv_mem.c:320:6:lv_mem_monitor	24	static
+../Core/lvgl/src/lv_misc/lv_mem.c:358:10:lv_mem_get_size	24	static
+../Core/lvgl/src/lv_misc/lv_mem.c:387:23:ent_get_next	24	static
+../Core/lvgl/src/lv_misc/lv_mem.c:409:15:ent_alloc	24	static
+../Core/lvgl/src/lv_misc/lv_mem.c:432:13:ent_trunc	24	static

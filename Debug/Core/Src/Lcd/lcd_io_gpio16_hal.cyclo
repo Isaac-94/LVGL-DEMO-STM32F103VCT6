@@ -1,0 +1,15 @@
+../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_gpio.h:341:22:LL_GPIO_SetPinMode	1
+../Core/Src/Lcd/lcd_io_gpio16_hal.c:67:6:LCDDirRead	1
+../Core/Src/Lcd/lcd_io_gpio16_hal.c:93:6:LCDDirWrite	1
+../Core/Src/Lcd/lcd_io_gpio16_hal.c:119:9:LCDRead8	9
+../Core/Src/Lcd/lcd_io_gpio16_hal.c:147:10:LCDRead16	17
+../Core/Src/Lcd/lcd_io_gpio16_hal.c:199:6:LCDWrite8	2
+../Core/Src/Lcd/lcd_io_gpio16_hal.c:220:6:LCDWrite16	2
+../Core/Src/Lcd/lcd_io_gpio16_hal.c:254:6:LCDWriteFillMultiData8and16	9
+../Core/Src/Lcd/lcd_io_gpio16_hal.c:309:6:LCDWriteFillMultiData16to24	7
+../Core/Src/Lcd/lcd_io_gpio16_hal.c:418:6:LCDReadMultiData8and16	4
+../Core/Src/Lcd/lcd_io_gpio16_hal.c:448:6:LCDReadMultiData24to16	3
+../Core/Src/Lcd/lcd_io_gpio16_hal.c:506:6:LCD_Delay	1
+../Core/Src/Lcd/lcd_io_gpio16_hal.c:517:6:LCD_IO_Bl_OnOff	1
+../Core/Src/Lcd/lcd_io_gpio16_hal.c:537:6:LCD_IO_Init	1
+../Core/Src/Lcd/lcd_io_gpio16_hal.c:555:6:LCD_IO_Transaction	9

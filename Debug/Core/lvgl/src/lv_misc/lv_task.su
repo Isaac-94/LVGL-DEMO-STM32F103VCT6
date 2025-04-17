@@ -1,0 +1,14 @@
+../Core/lvgl/src/lv_misc/lv_task.c:56:6:lv_task_core_init	8	static
+../Core/lvgl/src/lv_misc/lv_task.c:67:32:lv_task_handler	24	static
+../Core/lvgl/src/lv_misc/lv_task.c:167:13:lv_task_create_basic	16	static
+../Core/lvgl/src/lv_misc/lv_task.c:225:13:lv_task_create	32	static
+../Core/lvgl/src/lv_misc/lv_task.c:244:6:lv_task_set_cb	16	static
+../Core/lvgl/src/lv_misc/lv_task.c:253:6:lv_task_del	16	static
+../Core/lvgl/src/lv_misc/lv_task.c:267:6:lv_task_set_prio	24	static
+../Core/lvgl/src/lv_misc/lv_task.c:294:6:lv_task_set_period	16	static
+../Core/lvgl/src/lv_misc/lv_task.c:303:6:lv_task_ready	16	static
+../Core/lvgl/src/lv_misc/lv_task.c:312:6:lv_task_once	16	static
+../Core/lvgl/src/lv_misc/lv_task.c:322:6:lv_task_reset	16	static
+../Core/lvgl/src/lv_misc/lv_task.c:331:6:lv_task_enable	16	static
+../Core/lvgl/src/lv_misc/lv_task.c:340:9:lv_task_get_idle	4	static
+../Core/lvgl/src/lv_misc/lv_task.c:354:13:lv_task_exec	24	static

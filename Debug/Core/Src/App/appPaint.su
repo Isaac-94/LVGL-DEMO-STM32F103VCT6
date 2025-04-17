@@ -1,0 +1,4 @@
+C:/Users/Isaac/Documents/LCD_TFT/IdeCubemx/LVGL/Core/lvgl/../lvgl/src/lv_core/lv_disp.h:97:26:lv_scr_act	8	static
+../Core/Src/App/appPaint.c:135:13:hello_world	24	static
+../Core/Src/App/appPaint.c:150:6:campodetexto	24	static
+../Core/Src/App/appPaint.c:180:6:mainApp	88	static

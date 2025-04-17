@@ -1,0 +1,8 @@
+../Core/lvgl/src/lv_draw/../../../lvgl/src/lv_draw/../../../lvgl/src/lv_misc/lv_color.h:326:26:lv_color_mix	1
+../Core/lvgl/src/lv_draw/../../../lvgl/src/lv_draw/../../../lvgl/src/lv_misc/lv_area.h:83:26:lv_area_get_width	1
+../Core/lvgl/src/lv_draw/lv_draw_basic.c:70:6:lv_draw_px	10
+../Core/lvgl/src/lv_draw/lv_draw_basic.c:121:6:lv_draw_fill	4
+../Core/lvgl/src/lv_draw/lv_draw_basic.c:231:6:lv_draw_letter	31
+../Core/lvgl/src/lv_draw/lv_draw_basic.c:384:6:lv_draw_map	29
+../Core/lvgl/src/lv_draw/lv_draw_basic.c:565:13:sw_mem_blend	3
+../Core/lvgl/src/lv_draw/lv_draw_basic.c:585:13:sw_color_fill	11

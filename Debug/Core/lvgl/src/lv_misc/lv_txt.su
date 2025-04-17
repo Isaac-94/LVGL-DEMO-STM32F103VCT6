@@ -1,0 +1,16 @@
+../Core/lvgl/src/lv_misc/../../../lvgl/src/lv_misc/../../../lvgl/src/lv_font/lv_font.h:110:23:lv_font_get_line_height	16	static
+../Core/lvgl/src/lv_misc/lv_txt.c:93:6:lv_txt_get_size	48	static
+../Core/lvgl/src/lv_misc/lv_txt.c:143:10:lv_txt_get_next_line	56	static
+../Core/lvgl/src/lv_misc/lv_txt.c:227:12:lv_txt_get_width	48	static
+../Core/lvgl/src/lv_misc/lv_txt.c:273:6:lv_txt_is_cmd	24	static
+../Core/lvgl/src/lv_misc/lv_txt.c:311:6:lv_txt_ins	40	static
+../Core/lvgl/src/lv_misc/lv_txt.c:335:6:lv_txt_cut	32	static
+../Core/lvgl/src/lv_misc/lv_txt.c:360:16:lv_txt_utf8_size	16	static
+../Core/lvgl/src/lv_misc/lv_txt.c:378:17:lv_txt_unicode_to_utf8	24	static
+../Core/lvgl/src/lv_misc/lv_txt.c:409:17:lv_txt_utf8_conv_wc	32	static
+../Core/lvgl/src/lv_misc/lv_txt.c:436:17:lv_txt_utf8_next	24	static
+../Core/lvgl/src/lv_misc/lv_txt.c:509:17:lv_txt_utf8_prev	32	static
+../Core/lvgl/src/lv_misc/lv_txt.c:542:17:lv_txt_utf8_get_byte_id	24	static
+../Core/lvgl/src/lv_misc/lv_txt.c:560:17:lv_txt_utf8_get_char_id	24	static
+../Core/lvgl/src/lv_misc/lv_txt.c:579:17:lv_txt_utf8_get_length	24	static
+../Core/lvgl/src/lv_misc/lv_txt.c:716:20:is_break_char	24	static

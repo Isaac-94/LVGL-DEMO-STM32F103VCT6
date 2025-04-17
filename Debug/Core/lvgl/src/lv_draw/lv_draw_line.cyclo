@@ -1,0 +1,8 @@
+../Core/lvgl/src/lv_draw/lv_draw_line.c:79:6:lv_draw_line	23
+../Core/lvgl/src/lv_draw/lv_draw_line.c:184:13:line_draw_hor	2
+../Core/lvgl/src/lv_draw/lv_draw_line.c:205:13:line_draw_ver	2
+../Core/lvgl/src/lv_draw/lv_draw_line.c:226:13:line_draw_skew	60
+../Core/lvgl/src/lv_draw/lv_draw_line.c:573:13:line_init	4
+../Core/lvgl/src/lv_draw/lv_draw_line.c:592:13:line_next	5
+../Core/lvgl/src/lv_draw/lv_draw_line.c:612:13:line_next_y	3
+../Core/lvgl/src/lv_draw/lv_draw_line.c:628:13:line_next_x	3

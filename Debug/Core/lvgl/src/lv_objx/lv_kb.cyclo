@@ -1,0 +1,11 @@
+../Core/lvgl/src/lv_objx/lv_kb.c:94:12:lv_kb_create	8
+../Core/lvgl/src/lv_objx/lv_kb.c:171:6:lv_kb_set_ta	5
+../Core/lvgl/src/lv_objx/lv_kb.c:196:6:lv_kb_set_mode	4
+../Core/lvgl/src/lv_objx/lv_kb.c:216:6:lv_kb_set_cursor_manage	5
+../Core/lvgl/src/lv_objx/lv_kb.c:241:6:lv_kb_set_style	7
+../Core/lvgl/src/lv_objx/lv_kb.c:262:12:lv_kb_get_ta	1
+../Core/lvgl/src/lv_objx/lv_kb.c:273:14:lv_kb_get_mode	1
+../Core/lvgl/src/lv_objx/lv_kb.c:284:6:lv_kb_get_cursor_manage	1
+../Core/lvgl/src/lv_objx/lv_kb.c:296:20:lv_kb_get_style	7
+../Core/lvgl/src/lv_objx/lv_kb.c:324:6:lv_kb_def_event_cb	23
+../Core/lvgl/src/lv_objx/lv_kb.c:415:17:lv_kb_signal	12

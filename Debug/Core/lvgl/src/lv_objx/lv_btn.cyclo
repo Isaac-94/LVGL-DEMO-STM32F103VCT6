@@ -1,0 +1,17 @@
+../Core/lvgl/src/lv_objx/../../../lvgl/src/lv_objx/lv_btn.h:151:20:lv_btn_set_layout	1
+../Core/lvgl/src/lv_objx/lv_btn.c:72:12:lv_btn_create	10
+../Core/lvgl/src/lv_objx/lv_btn.c:159:6:lv_btn_set_toggle	1
+../Core/lvgl/src/lv_objx/lv_btn.c:171:6:lv_btn_set_state	2
+../Core/lvgl/src/lv_objx/lv_btn.c:184:6:lv_btn_toggle	5
+../Core/lvgl/src/lv_objx/lv_btn.c:201:6:lv_btn_set_ink_in_time	1
+../Core/lvgl/src/lv_objx/lv_btn.c:219:6:lv_btn_set_ink_wait_time	1
+../Core/lvgl/src/lv_objx/lv_btn.c:238:6:lv_btn_set_ink_out_time	1
+../Core/lvgl/src/lv_objx/lv_btn.c:257:6:lv_btn_set_style	6
+../Core/lvgl/src/lv_objx/lv_btn.c:282:16:lv_btn_get_state	1
+../Core/lvgl/src/lv_objx/lv_btn.c:293:6:lv_btn_get_toggle	1
+../Core/lvgl/src/lv_objx/lv_btn.c:305:10:lv_btn_get_ink_in_time	1
+../Core/lvgl/src/lv_objx/lv_btn.c:321:10:lv_btn_get_ink_wait_time	1
+../Core/lvgl/src/lv_objx/lv_btn.c:336:10:lv_btn_get_ink_out_time	1
+../Core/lvgl/src/lv_objx/lv_btn.c:353:20:lv_btn_get_style	16
+../Core/lvgl/src/lv_objx/lv_btn.c:397:13:lv_btn_design	4
+../Core/lvgl/src/lv_objx/lv_btn.c:479:17:lv_btn_signal	39

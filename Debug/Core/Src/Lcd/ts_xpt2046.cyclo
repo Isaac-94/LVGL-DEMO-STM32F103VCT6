@@ -1,0 +1,6 @@
+../Core/Src/Lcd/ts_xpt2046.c:63:6:TS_IO_Delay	2
+../Core/Src/Lcd/ts_xpt2046.c:82:10:TS_IO_Transaction	4
+../Core/Src/Lcd/ts_xpt2046.c:140:9:TS_IO_DetectToch	2
+../Core/Src/Lcd/ts_xpt2046.c:175:6:xpt2046_ts_Init	1
+../Core/Src/Lcd/ts_xpt2046.c:183:9:xpt2046_ts_DetectTouch	8
+../Core/Src/Lcd/ts_xpt2046.c:221:6:xpt2046_ts_GetXY	1

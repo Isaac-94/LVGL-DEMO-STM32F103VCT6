@@ -1,0 +1,2 @@
+../Core/lvgl/src/lv_misc/lv_utils.c:45:8:lv_utils_num_to_str	24	static
+../Core/lvgl/src/lv_misc/lv_utils.c:93:8:lv_utils_bsearch	32	static

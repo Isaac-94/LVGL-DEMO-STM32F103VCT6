@@ -1,0 +1,17 @@
+../Core/lvgl/src/lv_hal/lv_hal_disp.c:56:6:lv_disp_drv_init	1
+../Core/lvgl/src/lv_hal/lv_hal_disp.c:102:6:lv_disp_buf_init	1
+../Core/lvgl/src/lv_hal/lv_hal_disp.c:118:13:lv_disp_drv_register	6
+../Core/lvgl/src/lv_hal/lv_hal_disp.c:164:6:lv_disp_drv_update	2
+../Core/lvgl/src/lv_hal/lv_hal_disp.c:179:6:lv_disp_remove	5
+../Core/lvgl/src/lv_hal/lv_hal_disp.c:204:6:lv_disp_set_default	1
+../Core/lvgl/src/lv_hal/lv_hal_disp.c:213:13:lv_disp_get_default	1
+../Core/lvgl/src/lv_hal/lv_hal_disp.c:223:12:lv_disp_get_hor_res	4
+../Core/lvgl/src/lv_hal/lv_hal_disp.c:238:12:lv_disp_get_ver_res	4
+../Core/lvgl/src/lv_hal/lv_hal_disp.c:253:6:lv_disp_get_antialiasing	3
+../Core/lvgl/src/lv_hal/lv_hal_disp.c:269:31:lv_disp_flush_ready	1
+../Core/lvgl/src/lv_hal/lv_hal_disp.c:286:13:lv_disp_get_next	2
+../Core/lvgl/src/lv_hal/lv_hal_disp.c:299:17:lv_disp_get_buf	1
+../Core/lvgl/src/lv_hal/lv_hal_disp.c:308:10:lv_disp_get_inv_buf_size	1
+../Core/lvgl/src/lv_hal/lv_hal_disp.c:317:6:lv_disp_pop_from_inv_buf	2
+../Core/lvgl/src/lv_hal/lv_hal_disp.c:331:6:lv_disp_is_double_buf	3
+../Core/lvgl/src/lv_hal/lv_hal_disp.c:345:6:lv_disp_is_true_double_buf	3

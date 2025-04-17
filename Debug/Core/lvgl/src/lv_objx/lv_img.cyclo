@@ -1,0 +1,13 @@
+../Core/lvgl/src/lv_objx/../../../lvgl/src/lv_objx/lv_img.h:160:34:lv_img_get_style	1
+../Core/lvgl/src/lv_objx/lv_img.c:56:12:lv_img_create	8
+../Core/lvgl/src/lv_objx/lv_img.c:122:6:lv_img_set_src	16
+../Core/lvgl/src/lv_objx/lv_img.c:202:6:lv_img_set_auto_size	2
+../Core/lvgl/src/lv_objx/lv_img.c:215:6:lv_img_set_offset_x	2
+../Core/lvgl/src/lv_objx/lv_img.c:231:6:lv_img_set_offset_y	2
+../Core/lvgl/src/lv_objx/lv_img.c:250:14:lv_img_get_src	1
+../Core/lvgl/src/lv_objx/lv_img.c:262:14:lv_img_get_file_name	2
+../Core/lvgl/src/lv_objx/lv_img.c:277:6:lv_img_get_auto_size	1
+../Core/lvgl/src/lv_objx/lv_img.c:289:12:lv_img_get_offset_x	1
+../Core/lvgl/src/lv_objx/lv_img.c:301:12:lv_img_get_offset_y	1
+../Core/lvgl/src/lv_objx/lv_img.c:322:13:lv_img_design	14
+../Core/lvgl/src/lv_objx/lv_img.c:380:17:lv_img_signal	10

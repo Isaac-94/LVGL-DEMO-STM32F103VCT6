@@ -1,0 +1,6 @@
+../Core/lvgl/src/lv_draw/lv_draw_arc.c:55:6:lv_draw_arc	36
+../Core/lvgl/src/lv_draw/lv_draw_arc.c:166:17:fast_atan2	17
+../Core/lvgl/src/lv_draw/lv_draw_arc.c:244:13:ver_line	1
+../Core/lvgl/src/lv_draw/lv_draw_arc.c:252:13:hor_line	1
+../Core/lvgl/src/lv_draw/lv_draw_arc.c:260:13:deg_test_norm	3
+../Core/lvgl/src/lv_draw/lv_draw_arc.c:268:13:deg_test_inv	3

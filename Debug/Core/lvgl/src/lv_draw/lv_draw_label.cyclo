@@ -1,0 +1,5 @@
+../Core/lvgl/src/lv_draw/../../../lvgl/src/lv_draw/../../../lvgl/src/lv_draw/../../../lvgl/src/lv_core/../../../lvgl/src/lv_font/lv_font.h:110:23:lv_font_get_line_height	1
+../Core/lvgl/src/lv_draw/../../../lvgl/src/lv_draw/../../../lvgl/src/lv_draw/../../../lvgl/src/lv_core/../../../lvgl/src/lv_misc/lv_color.h:389:26:lv_color_make	1
+../Core/lvgl/src/lv_draw/../../../lvgl/src/lv_draw/../../../lvgl/src/lv_draw/../../../lvgl/src/lv_core/../../../lvgl/src/lv_misc/lv_area.h:83:26:lv_area_get_width	1
+../Core/lvgl/src/lv_draw/lv_draw_label.c:58:6:lv_draw_label	36
+../Core/lvgl/src/lv_draw/lv_draw_label.c:263:16:hex_char_to_num	10

@@ -1,0 +1,14 @@
+../Core/lvgl/src/lv_objx/lv_preload.c:63:12:lv_preload_create	9
+../Core/lvgl/src/lv_objx/lv_preload.c:130:6:lv_preload_set_arc_length	1
+../Core/lvgl/src/lv_objx/lv_preload.c:142:6:lv_preload_set_spin_time	1
+../Core/lvgl/src/lv_objx/lv_preload.c:159:6:lv_preload_set_style	2
+../Core/lvgl/src/lv_objx/lv_preload.c:171:6:lv_preload_set_type	5
+../Core/lvgl/src/lv_objx/lv_preload.c:251:6:lv_preload_set_dir	1
+../Core/lvgl/src/lv_objx/lv_preload.c:267:17:lv_preload_get_arc_length	1
+../Core/lvgl/src/lv_objx/lv_preload.c:277:10:lv_preload_get_spin_time	1
+../Core/lvgl/src/lv_objx/lv_preload.c:289:20:lv_preload_get_style	2
+../Core/lvgl/src/lv_objx/lv_preload.c:306:19:lv_preload_get_type	1
+../Core/lvgl/src/lv_objx/lv_preload.c:312:18:lv_preload_get_dir	1
+../Core/lvgl/src/lv_objx/lv_preload.c:327:6:lv_preload_spinner_anim	1
+../Core/lvgl/src/lv_objx/lv_preload.c:355:13:lv_preload_design	5
+../Core/lvgl/src/lv_objx/lv_preload.c:405:17:lv_preload_signal	6

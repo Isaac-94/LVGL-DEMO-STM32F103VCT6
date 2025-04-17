@@ -1,0 +1,5 @@
+../Core/lvgl/src/lv_draw/lv_draw_triangle.c:47:6:lv_draw_triangle	40	static
+../Core/lvgl/src/lv_draw/lv_draw_triangle.c:90:6:lv_draw_polygon	40	static
+../Core/lvgl/src/lv_draw/lv_draw_triangle.c:113:6:tri_draw_flat	88	static
+../Core/lvgl/src/lv_draw/lv_draw_triangle.c:224:6:tri_draw_tall	88	static
+../Core/lvgl/src/lv_draw/lv_draw_triangle.c:334:13:point_swap	24	static

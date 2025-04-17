@@ -1,0 +1,7 @@
+../Core/Src/Lcd/stm32_adafruit_ts.c:18:6:BSP_TS_CalibCalc	504	static
+../Core/Src/Lcd/stm32_adafruit_ts.c:99:6:BSP_TS_DisplaycoordCalc	32	static
+../Core/Src/Lcd/stm32_adafruit_ts.c:123:6:BSP_TS_SetCindex	24	static
+../Core/Src/Lcd/stm32_adafruit_ts.c:133:6:BSP_TS_GetCindex	24	static
+../Core/Src/Lcd/stm32_adafruit_ts.c:147:9:BSP_TS_Init	24	static
+../Core/Src/Lcd/stm32_adafruit_ts.c:172:6:BSP_TS_GetState	40	static
+../Core/Src/Lcd/stm32_adafruit_ts.c:186:6:XPT2046_read	24	static

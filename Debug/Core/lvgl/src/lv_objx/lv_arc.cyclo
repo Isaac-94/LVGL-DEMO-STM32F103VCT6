@@ -1,0 +1,8 @@
+../Core/lvgl/src/lv_objx/lv_arc.c:50:12:lv_arc_create	9
+../Core/lvgl/src/lv_objx/lv_arc.c:120:6:lv_arc_set_angles	3
+../Core/lvgl/src/lv_objx/lv_arc.c:139:6:lv_arc_set_style	2
+../Core/lvgl/src/lv_objx/lv_arc.c:155:10:lv_arc_get_angle_start	1
+../Core/lvgl/src/lv_objx/lv_arc.c:167:10:lv_arc_get_angle_end	1
+../Core/lvgl/src/lv_objx/lv_arc.c:180:20:lv_arc_get_style	2
+../Core/lvgl/src/lv_objx/lv_arc.c:214:13:lv_arc_design	5
+../Core/lvgl/src/lv_objx/lv_arc.c:276:17:lv_arc_signal	6

@@ -1,0 +1,6 @@
+SWV ITM Data Console - ITM Port: 0
+
+Please: set the LCD ORIENTATION to the value on which the program will run.
+Press the screen at the yellow squares that appear,
+then paste the following line into stm32_adafruit_ts.h :
+y2:312y2:316y2:300y2:297y2:310y2:300y2:294y2:290y2:300y2:2108y2:2111y2:2112y2:2109y2:2121y2:2125y2:2375y2:2375y2:2377y2:2423y2:2423y2:2419y2:2455y2:2460y2:2456y2:2432y2:2432y2:2430y2:2401y2:2402y2:2403y2:1381y2:1387y2:1421y2:1452y2:1458y2:1456y2:1464y2:1462y2:1483y2:1486y2:1462y2:1459#define  TS_CINDEX            {-1246284, -125601, -12109, 20953205, 22638, -203814, 31488186}

@@ -1,0 +1,14 @@
+../Core/lvgl/src/lv_misc/lv_task.c:56:6:lv_task_core_init	1
+../Core/lvgl/src/lv_misc/lv_task.c:67:32:lv_task_handler	16
+../Core/lvgl/src/lv_misc/lv_task.c:167:13:lv_task_create_basic	11
+../Core/lvgl/src/lv_misc/lv_task.c:225:13:lv_task_create	3
+../Core/lvgl/src/lv_misc/lv_task.c:244:6:lv_task_set_cb	1
+../Core/lvgl/src/lv_misc/lv_task.c:253:6:lv_task_del	2
+../Core/lvgl/src/lv_misc/lv_task.c:267:6:lv_task_set_prio	6
+../Core/lvgl/src/lv_misc/lv_task.c:294:6:lv_task_set_period	1
+../Core/lvgl/src/lv_misc/lv_task.c:303:6:lv_task_ready	1
+../Core/lvgl/src/lv_misc/lv_task.c:312:6:lv_task_once	1
+../Core/lvgl/src/lv_misc/lv_task.c:322:6:lv_task_reset	1
+../Core/lvgl/src/lv_misc/lv_task.c:331:6:lv_task_enable	1
+../Core/lvgl/src/lv_misc/lv_task.c:340:9:lv_task_get_idle	1
+../Core/lvgl/src/lv_misc/lv_task.c:354:13:lv_task_exec	5

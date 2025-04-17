@@ -1,0 +1,2 @@
+../Core/lvgl/src/lv_themes/lv_theme.c:57:6:lv_theme_set_current	1
+../Core/lvgl/src/lv_themes/lv_theme.c:111:14:lv_theme_get_current	1

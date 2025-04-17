@@ -1,0 +1,14 @@
+../Core/lvgl/src/lv_objx/../../../lvgl/src/lv_objx/../../../lvgl/src/lv_core/../../../lvgl/src/lv_core/../../../lvgl/src/lv_font/lv_font.h:110:23:lv_font_get_line_height	1
+../Core/lvgl/src/lv_objx/../../../lvgl/src/lv_objx/../../../lvgl/src/lv_objx/../../../lvgl/src/lv_objx/lv_cont.h:132:20:lv_cont_set_fit	1
+../Core/lvgl/src/lv_objx/../../../lvgl/src/lv_objx/../../../lvgl/src/lv_objx/lv_btn.h:151:20:lv_btn_set_layout	1
+../Core/lvgl/src/lv_objx/../../../lvgl/src/lv_objx/../../../lvgl/src/lv_objx/lv_btn.h:188:20:lv_btn_set_fit	1
+../Core/lvgl/src/lv_objx/../../../lvgl/src/lv_objx/../../../lvgl/src/lv_objx/lv_label.h:283:34:lv_label_get_style	1
+../Core/lvgl/src/lv_objx/lv_cb.c:51:12:lv_cb_create	10
+../Core/lvgl/src/lv_objx/lv_cb.c:127:6:lv_cb_set_text	1
+../Core/lvgl/src/lv_objx/lv_cb.c:139:6:lv_cb_set_static_text	1
+../Core/lvgl/src/lv_objx/lv_cb.c:151:6:lv_cb_set_style	7
+../Core/lvgl/src/lv_objx/lv_cb.c:180:14:lv_cb_get_text	1
+../Core/lvgl/src/lv_objx/lv_cb.c:192:20:lv_cb_get_style	6
+../Core/lvgl/src/lv_objx/lv_cb.c:223:13:lv_cb_design	4
+../Core/lvgl/src/lv_objx/lv_cb.c:256:13:lv_bullet_design	6
+../Core/lvgl/src/lv_objx/lv_cb.c:296:17:lv_cb_signal	14

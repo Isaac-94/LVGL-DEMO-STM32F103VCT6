@@ -1,0 +1,2 @@
+../Core/lvgl/src/lv_misc/lv_math.c:50:9:lv_trigo_sin	7
+../Core/lvgl/src/lv_misc/lv_math.c:82:9:lv_bezier3	1
